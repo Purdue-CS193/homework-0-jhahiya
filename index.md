@@ -1,17 +1,15 @@
-
+## Hiya's First CS 193 Homework
 ```markdown
 ## Hiya's First CS 193 Homework
 
 #Few reasons why I like CS 193: 
 - The class is teaching me a lot about technical skills I need as a Computer Science major outside of what's in the syllabus.
 - I love that the CS 193 is taught by members of the USB (Personally, I would love to do this in the future!)
+```
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
