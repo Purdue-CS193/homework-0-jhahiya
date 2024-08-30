@@ -1,28 +1,16 @@
+
+```markdown
 ## Hiya's First CS 193 Homework
 
 #Few reasons why I like CS 193: 
 - The class is teaching me a lot about technical skills I need as a Computer Science major outside of what's in the syllabus.
 - I love that the CS 193 is taught by members of the USB (Personally, I would love to do this in the future!)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
