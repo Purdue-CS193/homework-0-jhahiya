@@ -1,6 +1,5 @@
 ## Hiya's First CS 193 Homework
-
-#Few reasons why I like CS 193: 
+###Few reasons why I like CS 193: 
 - The class is teaching me a lot about technical skills I need as a Computer Science major outside of what's in the syllabus.
 - I love that the CS 193 is taught by members of the USB (Personally, I would love to do this in the future!)
 
@@ -9,7 +8,6 @@
 
 [Link](url) and ![Image](src)
 ```
-
 
 ### Jekyll Themes
 
